@@ -1,10 +1,3 @@
-
-Claude finished the response
-Yeah, that's the right move. Put the Drive link right in your GitHub README rather than trying to force the whole thing through git.
-
-A clean way to structure the README:
-
-md
 ## Build / Demo
 - 🎮 Playable Build (Windows/WebGL): [Google Drive link]
 - 🎥 Demo Video: [Drive or YouTube unlisted link]
